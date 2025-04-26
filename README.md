@@ -1,1 +1,2 @@
 # PRODIGY_WD_03
+I built a fun and interactive Tic-Tac-Toe web app using HTML, CSS, and JavaScript. It lets two players take turns by clicking on the grid, and the game keeps track of moves, checks for winners, and updates the board in real time. It’s a simple yet engaging way for users to compete and try to get three in a row to win. The design is clean and responsive, making it easy to play on both desktop and mobile.
